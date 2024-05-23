@@ -1,0 +1,12 @@
+li{
+    font-size:40px;
+    /* text-decoration: line-through; */
+}
+.check {
+    height: 32px;
+    width: 32px;
+}
+
+.strikeThrough{
+    text-decoration: line-through;
+}
